@@ -9,6 +9,7 @@ To learn and gain hands-on experience in:
 - Studied the full penetration testing lifecycle
 - Practiced hands-on labs using TryHackMe
 - Created structured mind maps with tools and commands
+- Completed courses that included practical hands-on labs
 
 
 ## Mind Maps
@@ -23,9 +24,10 @@ To learn and gain hands-on experience in:
   
 ## Practical Evidence
 - TryHackMe labs completed
+- https://tryhackme.com/p/aswathisukesh
 - Enumeration, exploitation & reporting practice
-
-## Outcome
-- Clear understanding of NPT & MPT workflows
-- Ability to explain tools, commands, and attack paths
-- Ready for entry-level penetration testing roles
+- Courses Completed
+- The-ultimate-guide-for-network-penetration-testing(udemy)
+- Advanced-mobile-penetration-testing-of-android-applications(udemy)
+- Certifications
+- AWS Certified Cloud Practitioner
