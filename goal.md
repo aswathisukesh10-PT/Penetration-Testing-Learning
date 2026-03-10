@@ -7,7 +7,8 @@ To learn and gain hands-on experience in:
 
 ## How I Completed This Goal
 - Studied the full penetration testing lifecycle
-- Practiced hands-on labs using TryHackMe
+- Performed Regional NPT (UK) with senior penetration Tester
+- Practiced hands-on labs using TryHackMe/Hack The Box
 - Created structured mind maps with tools and commands
 - Completed courses that included practical hands-on labs
 
