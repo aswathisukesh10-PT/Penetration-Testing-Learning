@@ -1,0 +1,62 @@
+# Year-End Self Assessment – Security Testing
+
+## 1. Key Contributions & Achievements
+
+### SMTP Third-Party Mail Relay / Email Spamming Issue
+- Identified a critical mail server misconfiguration enabling unauthorized email relay.
+- Performed real-world exploitation scenarios involving bulk email abuse and phishing.
+- **Impact:** Prevented potential domain blacklisting, reputational damage, and misuse of organizational email infrastructure.
+
+---
+
+### Web Application/webservice Security Testing (XSS & File Upload Vulnerabilities)
+- Discovered and validated vulnerabilities including **Reflected XSS** and insecure **File Upload mechanisms**.
+- Performed detailed testing and provided proof-of-concept for exploitation.
+- **Impact:** Helped mitigate risks related to client-side attacks, unauthorized access, and possible server compromise.
+
+---
+
+### AWS Cloud Practitioner Certification
+- Successfully completed AWS Certified Cloud Practitioner certification.
+- **Impact:** Enhanced understanding of cloud architecture and security principles, contributing to improved assessment of cloud-based applications.
+
+---
+
+## 2. Additional Skill Development
+
+- Completed hands-on learning in:
+  - **Network Pentesting**
+  - **Mobile Pentesting**
+- Broadened expertise beyond web application security into multiple security domains.
+
+---
+
+## 3. Challenges Faced & Key Learnings
+
+### Challenges
+- Encountered difficulties in advanced vulnerability exploitation (e.g., XSS bypass techniques, file upload restrictions).
+- Limited initial exposure to complex security controls and filtering mechanisms.
+
+### Key Learnings
+- Developed a deeper understanding of application security controls and input validation.
+- Improved ability to approach testing systematically and validate vulnerabilities effectively.
+- Strengthened research, troubleshooting, and persistence during assessments.
+
+---
+
+## 4. Development Goals for Next Year
+
+### Advanced Web Application Security
+- Focus on complex vulnerabilities (e.g., SSRF, authentication bypass, business logic issues).
+- Increase hands-on practice through labs and real-world scenarios.
+
+### Cloud Security (AWS)
+- Gain practical experience in identifying cloud misconfigurations.
+- Prepare for advanced cloud security certification.
+- Enhance skills in cloud-focused security testing.
+
+---
+
+## 5. Summary
+
+This year, I contributed to identifying critical security vulnerabilities, strengthened my foundation in cloud security, and expanded my skills across network and mobile pentesting. Going forward, I aim to deepen my expertise in web and cloud security to deliver more impactful security assessments.
