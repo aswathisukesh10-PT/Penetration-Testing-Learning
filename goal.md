@@ -27,8 +27,10 @@ To learn and gain hands-on experience in:
 - TryHackMe labs completed
 - https://tryhackme.com/p/aswathisukesh
 - Enumeration, exploitation & reporting practice
-- Courses Completed
+  
+ **Courses Completed**
 - The-ultimate-guide-for-network-penetration-testing(udemy)
 - Advanced-mobile-penetration-testing-of-android-applications(udemy)
-- Certifications
+  
+**Certifications**
 - AWS Certified Cloud Practitioner
